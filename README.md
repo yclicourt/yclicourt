@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yoan Carlos Licourt Acosta
-- 👀 I’m interested in integrate to project of programation web(backend) and Mobile aplication(Flutter) 
-- 🌱 I’m currently learning php with laravel 
+- 👀 I’m interested in integrate to project of programation web(backend) 
+- 🌱 I’m currently learning Typescript and Angular
 - 💞️ I’m looking to collaborate on a project or working like as backend a company
 - 📫 How to reach me: contact to me by: e-mail: yclicourt@gmail.com
 
