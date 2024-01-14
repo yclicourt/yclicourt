@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yoan Carlos Licourt Acosta
-- 👀 I’m interested in integrate to mobile develop 
-- 🌱 I’m currently working with Android Kotlin and learning Jetpack Compose
-- 💞️ I’m looking to collaborate on a project or working like as mobile developer 
+- 👀 I’m interested in integrate to Devops Engineer
+- 🌱 I’m currently working as System and Linux Administrator
+- 💞️ I’m looking to collaborate on a project or working like as Devops Engineer 
 - 📫 How to reach me: contact to me by: e-mail: yclicourt@gmail.com
 
 <!---
