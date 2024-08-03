@@ -18,4 +18,5 @@
 Me llamo Yoan Carlos @yoadev y actualmente trabajo como Freelance Backend and DevOps Engineer. Me encanta programar y la tecnología en general, soy una persona proactiva , atenta con su trabajo y partidiario de hacer bien las cosas sin márgen de errores. Actualmente estoy en búsqueda de oportunidades laborales que me ayuden a crecer aun mas en este mundo.
 
 Me puedes encontrar en:
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roxsross/)](https://www.linkedin.com/in/yoancarlos/)
