@@ -15,7 +15,7 @@
 ## ¡Bienvenid@s a mi Portfolio de presentación de GitHub!
 #### 🤔 &nbsp;¿Quién soy?
 
-Me llamo Yoan Carlos @yoadev y actualmente trabajo como Freelance Backend Engineer and DevOps Jr . Me encanta programar y el mundo de TI en general, soy una persona proactiva , atenta con su trabajo. Actualmente estoy en búsqueda de oportunidades laborales que me ayuden a crecer aun mas en este mundo.
+Me llamo Yoan Carlos @yoadev y actualmente trabajo como Freelance Backend Engineer. Me encanta programar y el mundo de TI en general, soy una persona proactiva , atenta con su trabajo. Actualmente estoy en búsqueda de oportunidades laborales que me ayuden a crecer aun mas en este mundo.
 
 Me puedes encontrar en:
 <br>
