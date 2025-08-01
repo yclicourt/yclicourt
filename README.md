@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Yoan Carlos 👨‍💻, Mobile Developer📲 and Backend Developer🖥️💻,interested in the constant growth in the world of technology both professionally and personal
+I am Yoan Carlos 👨‍💻, Jr Devops Engineer🖥️💻and Backend Developer🖥️💻,interested in the constant growth in the world of technology both professionally and personal
 
 
 ## 🌐 Socials:
