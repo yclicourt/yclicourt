@@ -1,5 +1,19 @@
 # 💫 About Me:
-🧑‍💻 Sobre mí<br>I am a Senior SysAdmin with solid experience in Linux systems administration, automation, and on-premise infrastructure management. At the same time, I work as a Backend Developer, specialized in the development of robust and scalable APIs (mainly in Python and Node.js).<br><br>Currently, I am transitioning into the DevOps world, exploring tools and practices such as Kubernetes, Docker, CI/CD, IaC (Terraform, Ansible), and observability.<br><br>⚙️ Tech Stack<br>Infraestructura & Automatización: Linux, Bash, Ansible, Terraform, Vagrant<br><br>DevOps en formación: Docker, Kubernetes, GitHub Actions, Helm<br><br>Backend: Python (Django,DjangoRestFramework), Node.js (Express,Nest), PostgreSQL, Redis<br><br>Backend As a Service:Supabase<br><br>Deploys:Vercel,Render,Railway<br><br>Frontend:React,Shadcn,TailwindCSS,Resend<br><br>Cloud & Virtualización: AWS, Proxmox, VirtualBox, VMware<br><br>Tools: Git, Jenkins, Prometheus, Grafana, Nginx, Traefik
+🧑‍💻 💻 Full Stack Jr. | Backend & DevOps in Progress
+
+🔧 Infra & Automation: Linux, Bash, Ansible, Terraform, Vagrant
+
+⚙️ DevOps: Docker, Kubernetes, GitHub Actions, Helm
+
+🖥️ Backend: Python (Django/DRF), Node.js (Express/Nest), PostgreSQL, Redis, Supabase
+
+🎨 Frontend: React, Shadcn, TailwindCSS, Resend
+
+☁️ Cloud & Virtualization: AWS, Proxmox, VirtualBox, VMware
+
+📊 Monitoring & Tools: Prometheus, Grafana, Jenkins, Nginx, Traefik, Git
+
+🚀 Transitioning into the DevOps world, while building robust, secure, and scalable backend solutions.
 
 
 ## 🌐 Socials:
