@@ -3,11 +3,11 @@
 
 🔧 Infra & Automation: Linux, Bash, Ansible, Terraform, Vagrant
 
-⚙️ DevOps: Docker, Kubernetes, GitHub Actions, Helm
+⚙️ DevOps: Docker, Kubernetes, GitHub Actions
 
 🖥️ Backend: Python (Django/DRF), Node.js (Express/Nest), PostgreSQL, Redis, Supabase
 
-☁️ Cloud & Virtualization: AWS, Proxmox, VirtualBox, VMware
+☁️ Cloud & Virtualization: Proxmox, VirtualBox, VMware
 
 📊 Monitoring & Tools: Prometheus, Grafana, Jenkins, Nginx, Traefik, Git
 
