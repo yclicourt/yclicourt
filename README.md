@@ -1,17 +1,15 @@
 # 💫 About Me:
-🧑‍💻 💻 Backend & DevOps in Progress
+🧑‍💻 💻 Backend & DevOps Engineer | SRE | Cloud Infrastructure Engineer
 
-🔧 Infra & Automation: Linux, Bash, Ansible, Terraform, Vagrant
+🔧 Infra & Automation: Linux, Bash, Ansible, Terraform
+⚙️ DevOps: Docker, Kubernetes, GitHub Actions, GitOps(ArgoCD)
 
-⚙️ DevOps: Docker, Kubernetes, GitHub Actions
-
-🖥️ Backend: Python (Django/DRF), Node.js (Express/Nest), PostgreSQL, Redis, Supabase
+🖥️ Backend: Python (Django/DRF), Node.js (Express/Nest), PostgreSQL
 
 ☁️ Cloud & Virtualization: Proxmox, VirtualBox, VMware
 
 📊 Monitoring & Tools: Prometheus, Grafana, Jenkins, Nginx, Traefik, Git
 
-🚀 Transitioning into the DevOps world, while building robust, secure, and scalable backend solutions.
 
 
 ## 🌐 Socials:
