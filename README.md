@@ -51,28 +51,28 @@ DevOps & Infrastructure Engineer passionate about Infrastructure as Code, Kubern
 📦 **Terraform + Docker Infrastructure**
 > Modular Infrastructure as Code for a full-stack application using Terraform and Docker Provider.
 
-🔗 ![]https://github.com/yclicourt/terraform-modules-task-app-fullstack.git
+🔗 ![Terraform+Docker](https://github.com/yclicourt/terraform-modules-task-app-fullstack.git)
 
 ---
 
 ☸️ **Terraform + Kubernetes Infrastructure**
 > Deploy a production-like Kubernetes application using StatefulSets, Deployments, ConfigMaps, Secrets and Ingress.
 
-🔗 ![](https://github.com/yclicourt/terraform-modules-kubernetes-tasks-app-fullstack.git)
+🔗 ![Terraform+Kuberentes](https://github.com/yclicourt/terraform-modules-kubernetes-tasks-app-fullstack.git)
 
 ---
 
 🚀 **GitOps with ArgoCD**
 > Continuous deployment using GitOps principles with ArgoCD.
 
-🔗 ![](https://github.com/yclicourt/deploy-gitOps-app.git)
+🔗 ![ArgoCD](https://github.com/yclicourt/deploy-gitOps-app.git)
 
 ---
 
 📊 **Kubernetes Monitoring Stack**
 > Prometheus, Grafana and Loki deployed on Kubernetes.Coming soon
 
-🔗 ![](https://github.com/yclicourt/kubernetes-monitoring-stack.git)
+🔗 ![Observability](https://github.com/yclicourt/kubernetes-monitoring-stack.git)
 
 
 ## Currently Learning
