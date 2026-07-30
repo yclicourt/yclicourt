@@ -189,7 +189,7 @@ Experienced in designing, automating, and managing modern infrastructure platfor
 </div>
 
 
-## Currently Learning
+## 🎯 Currently Learning
 - Advanced Terraform
 - Ansible Automation
 - Helm Charts
