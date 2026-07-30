@@ -45,11 +45,6 @@ DevOps & Infrastructure Engineer passionate about Infrastructure as Code, Kubern
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yclicourt&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yclicourt&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yclicourt&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🚀 Featured Projects
 
 📦 **Terraform + Docker Infrastructure**
