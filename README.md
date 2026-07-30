@@ -49,33 +49,92 @@ DevOps & Infrastructure Engineer passionate about Infrastructure as Code, Kubern
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-📦 **Terraform + Docker Infrastructure**
-> Modular Infrastructure as Code for a full-stack application using Terraform and Docker Provider.
+<table>
+<tr>
+<td width="50%">
 
-🔗 [Terraform+Docker](https://github.com/yclicourt/terraform-modules-task-app-fullstack.git)
+## 📦 Terraform Docker Platform
 
----
+<img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-☸️ **Terraform + Kubernetes Infrastructure**
-> Deploy a production-like Kubernetes application using StatefulSets, Deployments, ConfigMaps, Secrets and Ingress.
+A modular Infrastructure as Code project deploying a full-stack application using Terraform and Docker Provider.
 
-🔗 [Terraform+Kuberentes](https://github.com/yclicourt/terraform-modules-kubernetes-tasks-app-fullstack.git)
+### Highlights
+✅ Terraform modules architecture  
+✅ Container lifecycle automation  
+✅ PostgreSQL persistence with volumes  
+✅ Network isolation  
+✅ Environment-based configuration  
 
----
+🔗 [Repository](https://github.com/yclicourt/terraform-modules-task-app-fullstack)
 
-🚀 **GitOps with ArgoCD**
-> Continuous deployment using GitOps principles with ArgoCD.
+</td>
 
-🔗 [ArgoCD](https://github.com/yclicourt/deploy-gitOps-app.git)
+<td width="50%">
 
----
+## ☸️ Terraform Kubernetes Platform
 
-📊 **Kubernetes Monitoring Stack**
-> Prometheus, Grafana and Loki deployed on Kubernetes.Coming soon
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-Kubernetes_Provider-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
 
-🔗 [Observability](https://github.com/yclicourt/kubernetes-monitoring-stack.git)
+Production-like Kubernetes infrastructure deployed using Terraform.
+
+### Highlights
+✅ StatefulSets for databases  
+✅ Deployments for applications  
+✅ ConfigMaps & Secrets management  
+✅ Kubernetes Services  
+✅ Ingress routing  
+
+🔗 [Repository](https://github.com/yclicourt/terraform-modules-kubernetes-tasks-app-fullstack)
+
+</td>
+</tr>
+
+
+<tr>
+<td width="50%">
+
+## 🚀 GitOps Continuous Delivery
+
+<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+
+GitOps workflow implementing declarative Kubernetes deployments.
+
+### Highlights
+✅ Automated deployments  
+✅ Git-based infrastructure management  
+✅ Kubernetes application synchronization  
+✅ Continuous delivery workflow  
+
+🔗 [Repository](https://github.com/yclicourt/deploy-gitOps-app)
+
+</td>
+
+<td width="50%">
+
+## 📊 Kubernetes Observability Stack
+
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-Visualization-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-Logs-blue?style=for-the-badge"/>
+
+Complete monitoring and logging stack for Kubernetes environments.
+
+### Highlights
+✅ Metrics collection  
+✅ Dashboard visualization  
+✅ Centralized logging  
+✅ Kubernetes monitoring  
+
+🔗 Coming soon
+
+</td>
+</tr>
+</table>
 
 
 ## Currently Learning
