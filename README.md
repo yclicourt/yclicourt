@@ -1,3 +1,7 @@
+
+<img width="1788" height="592" alt="Gemini_Generated_Image_cork7fcork7fcork" src="https://github.com/user-attachments/assets/d09e222f-2e91-4c1a-aed2-c8e91b8a61d1" />
+
+
 # 💫 About Me:
 DevOps & Infrastructure Engineer passionate about Infrastructure as Code, Kubernetes, automation, and cloud-native technologies. I enjoy designing reliable platforms, automating deployments, and building production-ready infrastructure while maintaining a strong backend development background with Django and Node.js.
 
