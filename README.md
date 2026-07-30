@@ -94,7 +94,6 @@ Production-like Kubernetes infrastructure deployed using Terraform.
 </td>
 </tr>
 
-
 <tr>
 <td width="50%">
 
