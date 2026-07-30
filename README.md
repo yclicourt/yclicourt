@@ -181,7 +181,7 @@ Experienced in designing, automating, and managing modern infrastructure platfor
 
 </div>
 
-
+## 📈 GitHub Activity
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yclicourt&theme=github-compact&hide_border=true"/>
