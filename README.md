@@ -136,6 +136,58 @@ Complete monitoring and logging stack for Kubernetes environments.
 </tr>
 </table>
 
+## 🏗️ Infrastructure Experience
+
+Experienced in designing, automating, and managing modern infrastructure platforms following DevOps and cloud-native practices.
+
+### ☸️ Container Platforms & Orchestration
+
+* Administration of Kubernetes clusters with k3s
+* Containerized application deployments using Docker
+* Kubernetes workload management with Deployments, StatefulSets, Services, ConfigMaps, Secrets, and Ingress
+
+### ⚙️ Infrastructure as Code & Automation
+
+* Infrastructure provisioning and management using Terraform
+* Modular Infrastructure as Code design for scalable environments
+* Configuration management and automation workflows using Ansible
+
+### 🚀 DevOps & GitOps Practices
+
+* GitOps-based application delivery using ArgoCD
+* CI/CD pipeline automation with GitHub Actions and GitLab CI
+* Automated build, deployment, and infrastructure workflows
+
+### 🐧 Systems & Virtualization
+
+* Linux server administration and troubleshooting
+* Enterprise virtualization environments with VMware and Proxmox
+* Networking, storage, and infrastructure operations
+
+### 📊 Observability & Platform Operations
+
+* Monitoring and alerting solutions with Prometheus and Grafana
+* Centralized logging with Loki
+* Building visibility into Kubernetes-based platforms and applications
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yclicourt&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yclicourt&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yclicourt&theme=github-compact&hide_border=true"/>
+
+</div>
+
 
 ## Currently Learning
 - Advanced Terraform
