@@ -1,5 +1,4 @@
-
-<img width="1788" height="592" alt="Gemini_Generated_Image_cork7fcork7fcork" src="https://github.com/user-attachments/assets/d09e222f-2e91-4c1a-aed2-c8e91b8a61d1" />
+<img width="2172" height="724" alt="hero_profile" src="https://github.com/user-attachments/assets/abb2a3a4-cbcf-461f-a071-7da416f887f7" />
 
 
 # 💫 About Me:
