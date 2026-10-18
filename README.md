@@ -114,21 +114,24 @@ GitOps workflow implementing declarative Kubernetes deployments.
 
 <td width="50%">
 
-## 📊 Kubernetes Observability Stack
+## 🛒 Ecommerce Full-Stack Platform
 
-<img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-Visualization-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Loki-Logs-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Angular_18-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-Complete monitoring and logging stack for Kubernetes environments.
+Complete ecommerce platform with Angular 18 frontend and NestJS backend, deployed to production.
 
 ### Highlights
-✅ Metrics collection  
-✅ Dashboard visualization  
-✅ Centralized logging  
-✅ Kubernetes monitoring  
+✅ JWT authentication  
+✅ PayPal payment integration  
+✅ Order confirmation emails  
+✅ Light/dark mode UI  
+✅ Deployed on Vercel  
 
-🔗 Coming soon
+🔗 [Frontend](https://github.com/yclicourt/ecommerce-frontend-angular) · [Backend](https://github.com/yclicourt/ecommerce-backend)
 
 </td>
 </tr>
@@ -193,3 +196,4 @@ Experienced in designing, automating, and managing modern infrastructure platfor
 - Helm Charts
 - Platform Engineering
 - Cloud Architecture
+
