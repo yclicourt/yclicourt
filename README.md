@@ -52,6 +52,31 @@ DevOps & Infrastructure Engineer passionate about Infrastructure as Code, Kubern
 
 <table>
 <tr>
+<td colspan="2">
+
+## 🏗️ Tasks App — Complete Platform Engineering
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gateway_API-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenObserve-FF7139?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+
+End-to-end platform: `git push` → GitHub Actions (lint, test, Trivy) → Harbor → ArgoCD app-of-apps → Gateway API + TLS. Sealed Secrets, cert-manager, Kyverno policies, OpenObserve observability, Velero backups. Every layer declared in git.
+
+### Highlights
+✅ GitOps app-of-apps with sync waves
+✅ Gateway API routing + automated TLS (cert-manager)
+✅ Policy enforcement with Kyverno
+✅ Distributed tracing with OpenTelemetry
+✅ Scheduled backups with Velero
+
+🔗 [Repository](https://github.com/yclicourt/tasks-app-platform-devops)
+
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ## 📦 Terraform Docker Platform
