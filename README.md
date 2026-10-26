@@ -62,24 +62,24 @@ Fullstack Developer building web systems for small businesses that work offline:
 <tr>
 <td colspan="2">
 
-## 🏗️ Tasks App — Complete Platform Engineering
+## 🛒 Ecommerce Full-Stack Platform
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gateway_API-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenObserve-FF7139?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular_18-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-End-to-end platform: `git push` → GitHub Actions (lint, test, Trivy) → Harbor → ArgoCD app-of-apps → Gateway API + TLS. Sealed Secrets, cert-manager, Kyverno policies, OpenObserve observability, Velero backups. Every layer declared in git.
+Complete ecommerce platform with Angular 18 frontend and NestJS backend, deployed to production.
 
 ### Highlights
-✅ GitOps app-of-apps with sync waves
-✅ Gateway API routing + automated TLS (cert-manager)
-✅ Policy enforcement with Kyverno
-✅ Distributed tracing with OpenTelemetry
-✅ Scheduled backups with Velero
+✅ JWT authentication  
+✅ PayPal payment integration  
+✅ Order confirmation emails  
+✅ Light/dark mode UI  
+✅ Deployed on Vercel  
 
-🔗 [Repository](https://github.com/yclicourt/tasks-app-platform-devops)
+🔗 [Frontend](https://github.com/yclicourt/ecommerce-frontend-angular) · [Backend](https://github.com/yclicourt/ecommerce-backend)
 
 </td>
 </tr>
@@ -147,24 +147,24 @@ GitOps workflow implementing declarative Kubernetes deployments.
 
 <td width="50%">
 
-## 🛒 Ecommerce Full-Stack Platform
+## 🏗️ Tasks App — Complete Platform Engineering
 
-<img src="https://img.shields.io/badge/Angular_18-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gateway_API-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenObserve-FF7139?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 
-Complete ecommerce platform with Angular 18 frontend and NestJS backend, deployed to production.
+End-to-end platform: `git push` → GitHub Actions (lint, test, Trivy) → Harbor → ArgoCD app-of-apps → Gateway API + TLS. Sealed Secrets, cert-manager, Kyverno policies, OpenObserve observability, Velero backups. Every layer declared in git.
 
 ### Highlights
-✅ JWT authentication  
-✅ PayPal payment integration  
-✅ Order confirmation emails  
-✅ Light/dark mode UI  
-✅ Deployed on Vercel  
+✅ GitOps app-of-apps with sync waves
+✅ Gateway API routing + automated TLS (cert-manager)
+✅ Policy enforcement with Kyverno
+✅ Distributed tracing with OpenTelemetry
+✅ Scheduled backups with Velero
 
-🔗 [Frontend](https://github.com/yclicourt/ecommerce-frontend-angular) · [Backend](https://github.com/yclicourt/ecommerce-backend)
+🔗 [Repository](https://github.com/yclicourt/tasks-app-platform-devops)
 
 </td>
 </tr>
