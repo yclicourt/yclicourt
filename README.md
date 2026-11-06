@@ -79,7 +79,7 @@ Complete ecommerce platform with Angular 18 frontend and NestJS backend, deploye
 ✅ Light/dark mode UI  
 ✅ Deployed on Vercel  
 
-🔗 [Frontend](https://github.com/yclicourt/ecommerce-frontend-angular) · [Backend](https://github.com/yclicourt/ecommerce-backend)
+🔗 [Frontend](https://github.com/yclicourt/ecommerce-frontend) · [Backend](https://github.com/yclicourt/ecommerce-backend)
 
 </td>
 </tr>
@@ -87,41 +87,46 @@ Complete ecommerce platform with Angular 18 frontend and NestJS backend, deploye
 <tr>
 <td width="50%">
 
-## 📦 Terraform Docker Platform
+## 💰 CajaYa — Mipyme Management SaaS
 
-<img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-A modular Infrastructure as Code project deploying a full-stack application using Terraform and Docker Provider.
+Live SaaS I founded for Cuban small businesses (mipymes): invoicing, inventory and daily cash-register control in one installable PWA.
 
 ### Highlights
-✅ Terraform modules architecture  
-✅ Container lifecycle automation  
-✅ PostgreSQL persistence with volumes  
-✅ Network isolation  
-✅ Environment-based configuration  
+✅ Multi-tenant with Supabase Auth + Row Level Security  
+✅ Atomic stock decrement and consecutive invoice numbering (Postgres RPCs)  
+✅ PDF invoices shared via WhatsApp  
+✅ Offline data reading with a persisted client cache  
+✅ Member invitations and daily cash-register close  
 
-🔗 [Repository](https://github.com/yclicourt/terraform-modules-task-app-fullstack)
+🔗 [Live app](https://caja-ya-saas.vercel.app/)
 
 </td>
 
 <td width="50%">
 
-## ☸️ Terraform Kubernetes Platform
+## 🔧 Buildora — Full-Stack Scaffold Generator
 
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-Kubernetes_Provider-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-Production-like Kubernetes infrastructure deployed using Terraform.
+Free open-source scaffold generator (MIT): one command generates a complete full-stack project with auth, database, Docker and CI working from the first commit.
 
 ### Highlights
-✅ StatefulSets for databases  
-✅ Deployments for applications  
-✅ ConfigMaps & Secrets management  
-✅ Kubernetes Services  
-✅ Ingress routing  
+✅ Three golden paths: Next.js + NestJS, React + Vite + Django, Angular + FastAPI  
+✅ Built first as three real, tested apps — then extracted into templates  
+✅ Auth, Docker and CI working from the first commit  
+✅ Generated code is 100% yours, no lock-in  
+✅ Free on npm: `npx buildora generate my-app`  
 
-🔗 [Repository](https://github.com/yclicourt/terraform-modules-kubernetes-tasks-app-fullstack)
+🔗 [npm](https://www.npmjs.com/package/buildora) · [Landing](https://buildora-landing.vercel.app/) · [Template repo](https://github.com/yclicourt/buildora-template-path-1)
 
 </td>
 </tr>
@@ -129,46 +134,49 @@ Production-like Kubernetes infrastructure deployed using Terraform.
 <tr>
 <td width="50%">
 
-## 🚀 GitOps Continuous Delivery
+## 🏠 WelcomeHome — Real Estate Platform
 
-<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-GitOps workflow implementing declarative Kubernetes deployments.
+Client project: real estate platform for a Cuban real estate company, with public listings and an admin panel.
 
 ### Highlights
-✅ Automated deployments  
-✅ Git-based infrastructure management  
-✅ Kubernetes application synchronization  
-✅ Continuous delivery workflow  
+✅ Public property listings and detail pages  
+✅ Admin panel to manage published properties  
+✅ Supabase backend (PostgreSQL + Auth + Storage)  
+✅ React + Vite + TypeScript frontend  
+✅ Deployed on Vercel  
 
-🔗 [Repository](https://github.com/yclicourt/deploy-gitOps-app)
+🔗 [Live app](https://welcome-home-inmobiliary.vercel.app/)
 
 </td>
 
 <td width="50%">
 
-## 🏗️ Tasks App — Complete Platform Engineering
+## 🚚 REIKO'S LLC — Logistics Landing
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gateway_API-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenObserve-FF7139?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular_18-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white"/>
 
-End-to-end platform: `git push` → GitHub Actions (lint, test, Trivy) → Harbor → ArgoCD app-of-apps → Gateway API + TLS. Sealed Secrets, cert-manager, Kyverno policies, OpenObserve observability, Velero backups. Every layer declared in git.
+Corporate landing page for a logistics company, with service pages and a working quote-request form.
 
 ### Highlights
-✅ GitOps app-of-apps with sync waves
-✅ Gateway API routing + automated TLS (cert-manager)
-✅ Policy enforcement with Kyverno
-✅ Distributed tracing with OpenTelemetry
-✅ Scheduled backups with Velero
+✅ Transport, Storage and Logistics service pages  
+✅ Animated image carousel  
+✅ Quote-request contact form (Formspree)  
+✅ Optimized WebP imagery (5.2 MB → 364 KB)  
+✅ Deployed on Vercel  
 
-🔗 [Repository](https://github.com/yclicourt/tasks-app-platform-devops)
+🔗 [Live site](https://reikosllc.vercel.app/)
 
 </td>
 </tr>
 </table>
+
 
 ## 🏗️ Infrastructure Experience
 
