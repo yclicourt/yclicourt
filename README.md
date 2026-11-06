@@ -43,8 +43,7 @@ Fullstack Developer building web systems for small businesses that work offline:
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 📊 Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenObserve](https://img.shields.io/badge/OpenObserve-FF7139?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ### 🖥️ Virtualization
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
